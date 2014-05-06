@@ -18,6 +18,7 @@
 
 	<br />
 	<br />
+	<a href="<?php echo url('rottentomatoes/search'); ?>"> Search Movies </a>
 	<p>Not Registered? <a href="<?php echo url('sign-up');?>">Sign Up!</a> </p>
 </body>
 

@@ -14,6 +14,9 @@
 
 	</form>
 
+	<br />
+	<p> <a href="<?php echo url('login'); ?>"> Login </a>
+
 
 </body>
 </html>
